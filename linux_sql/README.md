@@ -32,7 +32,7 @@ The Jarvis Linux Cluster Monitoring project is designed to provide the user with
 
 # Implemenation
 ## Architecture
-![cluster_diagram] (./assets/cluster_diagram.png)
+![cluster_diagram](./assets/cluster_diagram.png)
 
 ## Scripts
 ### psql_docker.sh
