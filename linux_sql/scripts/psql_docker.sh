@@ -4,7 +4,6 @@
 cmd=$1
 db_username=$2
 db_password=$3
-echo "working"
 
 # Start docker
 # Make sure you understand the double pipe operator
