@@ -1,17 +1,5 @@
 # Introduction
+This project is just various exercises to get familiar with SQL. 
+The way this was done was by writing various query exercises for a docker contained postgreSQL database.
+Some of the topics covered include select, joins, aggregate and window functions.
 
-# SQL Queries
-
-###### Table Setup (DDL)
-
-###### Question 1: Show all members 
-
-```sql
-SELECT *
-FROM cd.members
-```
-
-###### Question 2: Lorem ipsum...
-
-```sql
-SELECT blah blah 
