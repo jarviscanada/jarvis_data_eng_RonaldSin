@@ -1,0 +1,115 @@
+{
+  "education": [
+    {
+      "awards_achievements": null,
+      "degree": "Bachelor of Science",
+      "department": "Computer Science Co-op",
+      "duration": "2019-2024",
+      "school_name": "University of Ontario Institute of Technology (Ontario Tech University)"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_RonaldSin",
+  "highlighted_projects": [
+    {
+      "description": "Utilized various computer photography algorithms and techniques to create a GUI tool to select and replace colour in an image. Implemented features such as upscaling and zooming into an image without loss of pixels with 2D linear interpolation, and selecting a colour and sensitivity from an image to replace with another colour with NumPy and SciPy.",
+      "git_url": "https://github.com/TheHub5/Computer-Photography-Final-Project",
+      "name": "Image Filter and Effects App"
+    },
+    {
+      "description": "Led a team of 3 developers to successful create a Granite AI-powered tool to solve staffing issues in a medical setting, reducing average simulated wait times by 25% while under a time constraint of a 48 hour Hackathon.",
+      "git_url": "https://github.com/ronaldsin/IBM-Hackathon-Granite-ER-Assistant",
+      "name": "Hospital Staffing Level AI Prediction tool"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Created and deployed Bash scripts and a Docker contained PostgreSQL database to regularly monitor and collect hardware and usage data about a Linux Rocky virtual machine.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Ronald Sin",
+  "others": [
+    {
+      "bullets": [
+        "Band Member (Guitar)",
+        "Motorcycle Riding",
+        "Bouldering",
+        "Volleyball Player"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Undergoing training at Jarvis. Completed Linux and SQL modules.",
+      "duration": "2026-present",
+      "title": "Data Engineer"
+    },
+    {
+      "company": "Code Ninjas",
+      "description": "Developed over 100 black box test cases for an in-house booking web-tool, ensuring 100% accuracy to all test cases. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Managed a team of over 20 employees, across two locations.",
+      "duration": "2022",
+      "title": "Black Box Tester"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Java",
+      "JavaScript",
+      "C#",
+      "NumPy",
+      "Flutter"
+    ],
+    "familiar": [
+      "Dart",
+      "Unity",
+      "HTML",
+      "CSS",
+      "React"
+    ],
+    "proficient": [
+      "Python",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "I am currently a Jarvis consultant who graduated from Ontario Tech University with a Computer Science Co-op Bachelors of Science. During my co-op I worked at Code Ninjas as a black box tester for an in-house web tool with a small team of developers, as well a Computer Science Educator for children aged 5-15. What drew me into data engineering is my love for solving puzzles. Planning and building data pipelines, turning noisy data into clean predictable data, feels like a big puzzle and is very satisfying when everything comes together."
+}
