@@ -26,7 +26,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RonaldSin]
 
 ## Professional Experiences
 
-**Data Engineer, Jarvis (2026-present)**: Undergoing training at Jarvis. Completed Linux and SQL modules.
+**Data Engineer, Jarvis (2026-present)**: Designed and delivered diverse data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding.
 
 **Black Box Tester and Computer Science Instructor, Code Ninjas (2022)**: Developed over 100 black box test cases and discovering and assisting in fixing over 50 bugs for an in-house booking web-tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Individually managed a team of over 20 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates.
 
