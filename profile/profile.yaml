@@ -5,14 +5,14 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RonaldSin
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am currently a Jarvis consultant who graduated from Ontario Tech University with a Computer Science Co-op Bachelors of Science. During my co-op I worked at Code Ninjas as a black box tester for an in-house web tool with a small team of developers, as well a Computer Science Educator for children aged 5-15. What drew me into data engineering is my love for solving puzzles. Planning and building data pipelines, turning noisy data into clean predictable data, feels like a big puzzle and is very satisfying when everything comes together.
+summary: I am a data engineer graduating from Ontario Tech University with a Bachelor of Science in Computer Science (Co-op). Previously, I worked at Code Ninjas as a black-box tester, where I collaborated with a development team to create 100+ test cases and identify and resolve 50+ bugs in an in-house web application. What draws me to data engineering is my passion for problem-solving, designing pipelines and transforming messy datasets into clean, structured information feels like solving an intricate puzzle, and the satisfaction when everything clicks into place is unmatched.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Python
+    - Python (numPy, sciPy)
     - Linux/Bash
     - RDBMS/SQL
     - Agile/Scrum
@@ -22,7 +22,7 @@ skills:
     - Java
     - JavaScript
     - C#
-    - NumPy
+    - DataBricks
     - Flutter
   # At least 5 skills
   familiar:
@@ -38,28 +38,7 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Created and deployed Bash scripts and a Docker contained PostgreSQL database to regularly monitor and collect hardware and usage data about a Linux Rocky virtual machine.
-  - name: "Core Java Apps"
-    git_url: "/core_java"
-    description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+    description: Developed a metrics collection and storage system for Linux cluster monitoring. Leveraged Bash scripts (lscpu, vmstat) to extract, process, and store hardware and usage metrics. Deployed a Dockerized PostgreSQL database for persistent data storage. Streamlined deployment workflows through automated database provisioning and management scripts, reducing setup time. Scheduled automated data collection using Crontab.
 
 # List of personal or academic projects
 # Feel free to add more projects
@@ -69,10 +48,10 @@ highlighted_projects:
     #URL is optional
     git_url: "https://github.com/TheHub5/Computer-Photography-Final-Project"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Utilized various computer photography algorithms and techniques to create a GUI tool to select and replace colour in an image. Implemented features such as upscaling and zooming into an image without loss of pixels with 2D linear interpolation, and selecting a colour and sensitivity from an image to replace with another colour with NumPy and SciPy.
+    description: Developed a Python-based photo editing tool with advanced colour replacement capabilities. Manipulated colour space data using NumPy and SciPy matrix transformations to isolate and replace specific colour ranges within images. Integrated a fuzzy selection feature with adjustable sensitivity thresholds for precise colour targeting. Implemented lossless upscaling algorithms based on mathematical interpolation techniques to preserve image fidelity. Designed an intuitive PySimpleGUI interface to enhance accessibility for non-technical users.
   - name: "Hospital Staffing Level AI Prediction tool"
     git_url: "https://github.com/ronaldsin/IBM-Hackathon-Granite-ER-Assistant"
-    description: Led a team of 3 developers to successful create a Granite AI-powered tool to solve staffing issues in a medical setting, reducing average simulated wait times by 25% while under a time constraint of a 48 hour Hackathon.
+    description: Led a team of 3 developers in a high-pressure hackathon environment, coordinating task delegation and sprint planning to deliver a Granite AI-powered staffing optimization tool for healthcare settings. Engineered a robust Python data pipeline to validate and standardize input data, ensuring consistency across the system. Implemented advanced prompt engineering techniques to fine-tune Granite AI responses, achieving a 25%+ reduction in average simulated patient wait times.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -84,11 +63,14 @@ professional_experience:
     duration: "2026-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Undergoing training at Jarvis. Completed Linux and SQL modules."
-  - title: "Black Box Tester"
+  - title: "Black Box Tester and Computer Science Instructor"
     company: "Code Ninjas"
     duration: "2022"
-    description: "Developed over 100 black box test cases for an in-house booking web-tool, ensuring 100% accuracy to all test cases. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Managed a team of over 20 employees, across two locations."
-
+    description: "Developed over 100 black box test cases and discovering and assisting in fixing over 50 bugs for an in-house booking web-tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Individually managed a team of over 20 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates."
+  - title: "Model Maker and Industrial Painter"
+    company: "PCL Graphics"
+    duration: "2025"
+    description: "Created luxurious grand display pieces for high value clients in the makeup industry ensuring a near perfect finishes with a high attention to detail. Gathered and discussed project requirements with client facing departments in order to create flexible plans while accounting for cost, deadlines and potential changes in requirements. Quickly identified, suggested and implemented fixes to critical flaws in plans. Worked in a scrum-like environment participating in daily standups, sprint cycles and sprint reviews. Organized and communicated across different departments to coordinate the provision and processing of raw material."
 #List of edcuation
 education: 
   - school_name: "University of Ontario Institute of Technology (Ontario Tech University)"
@@ -109,7 +91,6 @@ others:
     #  - "Winner"
   - title: "Activities/Hobbies"
     bullets:
-      - "Band Member (Guitar)"
-      - "Motorcycle Riding"
-      - "Bouldering"
-      - "Volleyball Player"
+      - "Band Member - I participate in weekly band practices as a guitarist, jamming and creating covers of various rock and J-rock songs. I'm constantly scouring Facebook Marketplace for deals on new gear and always on the lookout for fresh music. Some of my favorite bands include Broken By The Scream, Midori, and Imperial Circus Dead Decadence."
+      - "Motorcycles - I look forward to nice weather on my days off so I can take my Yamaha R3 out for a ride. The full-body engagement and lack of physical barriers allow me to experience the smells and sights of country roads in ways a car never could."
+      - "Volleyball Player - I'm a casual recreational player who enjoys participating in pickup volleyball matches with friends. I love the fast-paced, team-oriented gameplay where every player must execute their role for the team to succeed. The post-game meals with everyone are always a highlight."
