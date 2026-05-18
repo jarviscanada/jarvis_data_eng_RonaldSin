@@ -65,6 +65,7 @@ public class JavaGrepImp implements JavaGrep{
     @Override
     public List<File> listFiles(String rootDir) {
         File dir = new File(rootDir);
+
         ArrayList<File> files = new ArrayList<>(Arrays.asList(dir.listFiles()));
 
         if (files != null) {
@@ -117,8 +118,7 @@ public class JavaGrepImp implements JavaGrep{
     @Override
     public void writeToFile(List<String> lines) throws IOException {
         BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile(), true));
-//        writer.write(lines.get(0));
-//        lines.remove(0);
+
         this.logger.info("Writing to file... ");
         for(String l : lines){
             writer.append('\n');
