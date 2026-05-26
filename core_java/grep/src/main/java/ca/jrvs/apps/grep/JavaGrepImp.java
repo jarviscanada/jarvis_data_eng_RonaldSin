@@ -123,7 +123,7 @@ public class JavaGrepImp implements JavaGrep{
 
     @Override
     public void writeToFile(List<String> lines) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile(), true));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile(), false));
 
         this.logger.info("Writing to file... ");
         for(String l : lines){
