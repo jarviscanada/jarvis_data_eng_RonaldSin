@@ -1,0 +1,96 @@
+# Preferred name (Characters only)
+name: "Ronald Sin"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RonaldSin
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am a data engineer graduating from Ontario Tech University with a Bachelor of Science in Computer Science (Co-op). Previously, I worked at Code Ninjas as a black-box tester, where I collaborated with a development team to create 100+ test cases and identify and resolve 50+ bugs in an in-house web application. What draws me to data engineering is my passion for problem-solving, designing pipelines and transforming messy datasets into clean, structured information feels like solving an intricate puzzle, and the satisfaction when everything clicks into place is unmatched.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Python (numPy, sciPy)
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Java
+    - JavaScript
+    - C#
+    - DataBricks
+    - Flutter
+  # At least 5 skills
+  familiar:
+    - Dart
+    - Unity
+    - HTML
+    - CSS
+    - React
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a metrics collection and storage system for Linux cluster monitoring. Leveraged Bash scripts (lscpu, vmstat) to extract, process, and store hardware and usage metrics. Deployed a Dockerized PostgreSQL database for persistent data storage. Streamlined deployment workflows through automated database provisioning and management scripts, reducing setup time. Scheduled automated data collection using Crontab.
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Image Filter and Effects App"
+    #URL is optional
+    git_url: "https://github.com/TheHub5/Computer-Photography-Final-Project"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a Python-based photo editing tool with advanced colour replacement capabilities. Manipulated colour space data using NumPy and SciPy matrix transformations to isolate and replace specific colour ranges within images. Integrated a fuzzy selection feature with adjustable sensitivity thresholds for precise colour targeting. Implemented lossless upscaling algorithms based on mathematical interpolation techniques to preserve image fidelity. Designed an intuitive PySimpleGUI interface to enhance accessibility for non-technical users.
+  - name: "Hospital Staffing Level AI Prediction tool"
+    git_url: "https://github.com/ronaldsin/IBM-Hackathon-Granite-ER-Assistant"
+    description: Led a team of 3 developers in a high-pressure hackathon environment, coordinating task delegation and sprint planning to deliver a Granite AI-powered staffing optimization tool for healthcare settings. Engineered a robust Python data pipeline to validate and standardize input data, ensuring consistency across the system. Implemented advanced prompt engineering techniques to fine-tune Granite AI responses, achieving a 25%+ reduction in average simulated patient wait times.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Data Engineer"
+    company: "Jarvis"
+    duration: "2026-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Designed and delivered diverse data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding."
+  - title: "Black Box Tester and Computer Science Instructor"
+    company: "Code Ninjas"
+    duration: "2022"
+    description: "Developed over 100 black box test cases and discovering and assisting in fixing over 50 bugs for an in-house booking web-tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Individually managed a team of over 20 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates."
+  - title: "Model Maker and Industrial Painter"
+    company: "PCL Graphics"
+    duration: "2025"
+    description: "Created luxurious grand display pieces for high value clients in the makeup industry ensuring a near perfect finishes with a high attention to detail. Gathered and discussed project requirements with client facing departments in order to create flexible plans while accounting for cost, deadlines and potential changes in requirements. Quickly identified, suggested and implemented fixes to critical flaws in plans. Worked in a scrum-like environment participating in daily standups, sprint cycles and sprint reviews. Organized and communicated across different departments to coordinate the provision and processing of raw material."
+#List of edcuation
+education: 
+  - school_name: "University of Ontario Institute of Technology (Ontario Tech University)"
+    duration: "2019-2024"
+    degree: "Bachelor of Science"
+    department: "Computer Science Co-op"
+    awards_achievements:
+
+#Optional section
+others:
+    #category
+  #- title: "Certificates"
+    #list of items
+    #bullets:
+    #  - "Udacity Machine Learning (2019)"
+  #- title: "Awards"
+   # bullets:
+    #  - "Winner"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Band Member - I participate in weekly band practices as a guitarist, jamming and creating covers of various rock and J-rock songs. I'm constantly scouring Facebook Marketplace for deals on new gear and always on the lookout for fresh music. Some of my favorite bands include Broken By The Scream, Midori, and Imperial Circus Dead Decadence."
+      - "Motorcycles - I look forward to nice weather on my days off so I can take my Yamaha R3 out for a ride. The full-body engagement and lack of physical barriers allow me to experience the smells and sights of country roads in ways a car never could."
+      - "Volleyball Player - I'm a casual recreational player who enjoys participating in pickup volleyball matches with friends. I love the fast-paced, team-oriented gameplay where every player must execute their role for the team to succeed. The post-game meals with everyone are always a highlight."
