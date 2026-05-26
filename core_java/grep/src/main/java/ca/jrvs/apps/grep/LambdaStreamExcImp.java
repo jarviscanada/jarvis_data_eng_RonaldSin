@@ -50,7 +50,7 @@ public class LambdaStreamExcImp implements LambdaStreamExc{
 
     @Override
     public IntStream createIntStream(int start, int end) {
-        return IntStream.iterate(start, n -> n+1).limit(end);
+        return IntStream.range(start, end);
     }
 
     @Override

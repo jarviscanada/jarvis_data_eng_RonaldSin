@@ -65,26 +65,32 @@ public class JavaGrepImp implements JavaGrep{
     @Override
     public List<File> listFiles(String rootDir) {
         File dir = new File(rootDir);
+        File[] listFiles = dir.listFiles();
+        if(listFiles != null) {
+            ArrayList<File> files = new ArrayList<>(Arrays.asList(listFiles));
+            ArrayList<File> result = new ArrayList<>();
 
-        ArrayList<File> files = new ArrayList<>(Arrays.asList(dir.listFiles()));
-
-        if (files != null) {
             for (File file : files) {
                 this.logger.info("Found: " + rootDir + "/" + file.getName());
 
-                if(file.isDirectory()){
+                if (file.isDirectory()) {
                     this.logger.info(rootDir + "/" + file.getName() + " is a directory");
                     this.logger.info("Searching " + rootDir + "/" + file.getName());
-                    files.addAll(listFiles(rootDir + "/" + file.getName()));
-                    files.remove(file);
-                }
-                else{
+                    result.addAll(listFiles(rootDir + "/" + file.getName()));
+                    result.remove(file);
+                } else {
                     this.logger.info(rootDir + "/" + file.getName() + " is a file");
+                    result.add(file);
                 }
             }
+
+            return result;
+        }
+        else{
+            throw new RuntimeException("listFiles is null");
         }
 
-        return files;
+
     }
 
     @Override
@@ -117,7 +123,7 @@ public class JavaGrepImp implements JavaGrep{
 
     @Override
     public void writeToFile(List<String> lines) throws IOException {
-        BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile(), true));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile(), false));
 
         this.logger.info("Writing to file... ");
         for(String l : lines){
