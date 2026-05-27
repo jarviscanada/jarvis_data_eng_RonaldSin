@@ -6,9 +6,9 @@ I am a data engineer graduating from Ontario Tech University with a Bachelor of 
 
 **Proficient:** Python (numPy, sciPy), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Java, JavaScript, C#, DataBricks, Flutter
+**Competent:** Java (Lambda, Streams, Junit, Logger), JavaScript, C#, DataBricks, Maven
 
-**Familiar:** Dart, Unity, HTML, CSS, React
+**Familiar:** Flutter, Unity, HTML, CSS, React
 
 ## Jarvis Projects
 

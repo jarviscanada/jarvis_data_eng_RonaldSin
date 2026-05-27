@@ -19,14 +19,14 @@ skills:
     - Git
   # At least 5 skills
   competent:
-    - Java
+    - Java (Lambda, Streams, Junit, Logger)
     - JavaScript
     - C#
     - DataBricks
-    - Flutter
+    - Maven
   # At least 5 skills
   familiar:
-    - Dart
+    - Flutter
     - Unity
     - HTML
     - CSS

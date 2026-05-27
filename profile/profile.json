@@ -66,14 +66,14 @@
   ],
   "skills": {
     "competent": [
-      "Java",
+      "Java (Lambda, Streams, Junit, Logger)",
       "JavaScript",
       "C#",
       "DataBricks",
-      "Flutter"
+      "Maven"
     ],
     "familiar": [
-      "Dart",
+      "Flutter",
       "Unity",
       "HTML",
       "CSS",
