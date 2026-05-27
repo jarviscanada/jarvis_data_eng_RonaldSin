@@ -26,6 +26,11 @@
       "description": "Developed a metrics collection and storage system for Linux cluster monitoring. Leveraged Bash scripts (lscpu, vmstat) to extract, process, and store hardware and usage metrics. Deployed a Dockerized PostgreSQL database for persistent data storage. Streamlined deployment workflows through automated database provisioning and management scripts, reducing setup time. Scheduled automated data collection using Crontab.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": "Cloned the Linux grep utility in Java that accepts three command-line arguments (searchDirectory, regexPattern, and outputFile) to recursively search through directories and log matching lines. The project leverages Java Lambdas, Streams, and standard Logging frameworks, with a robust test suite built via JUnit and dependency management handled by Maven. For seamless deployment, the application was Dockerized and published to Docker Hub.",
+      "git_url": "/core_java/grep",
+      "name": "Java Grep App"
     }
   ],
   "name": "Ronald Sin",

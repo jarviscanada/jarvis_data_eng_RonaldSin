@@ -39,6 +39,11 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed a metrics collection and storage system for Linux cluster monitoring. Leveraged Bash scripts (lscpu, vmstat) to extract, process, and store hardware and usage metrics. Deployed a Dockerized PostgreSQL database for persistent data storage. Streamlined deployment workflows through automated database provisioning and management scripts, reducing setup time. Scheduled automated data collection using Crontab.
+  - name: "Java Grep App"
+    git_url: "/core_java/grep"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Cloned the Linux grep utility in Java that accepts three command-line arguments (searchDirectory, regexPattern, and outputFile) to recursively search through directories and log matching lines. The project leverages Java Lambdas, Streams, and standard Logging frameworks, with a robust test suite built via JUnit and dependency management handled by Maven. For seamless deployment, the application was Dockerized and published to Docker Hub.
 
 # List of personal or academic projects
 # Feel free to add more projects
