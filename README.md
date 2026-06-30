@@ -4,7 +4,7 @@ I am a data engineer graduating from Ontario Tech University with a Bachelor of 
 
 ## Skills
 
-**Proficient:** Python (numPy, sciPy), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python (numPy, sciPy, pandas), Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
 **Competent:** Java (Lambda, Streams, Junit, Logger), JavaScript, C#, DataBricks, Maven
 
@@ -19,6 +19,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RonaldSin]
 
 **Java Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RonaldSin/tree/master/core_java/grep)]: Cloned the Linux grep utility in Java that accepts three command-line arguments (searchDirectory, regexPattern, and outputFile) to recursively search through directories and log matching lines. The project leverages Java Lambdas, Streams, and standard Logging frameworks, with a robust test suite built via JUnit and dependency management handled by Maven. For seamless deployment, the application was Dockerized and published to Docker Hub.
 
+**Python analytics project** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RonaldSin/tree/master/python_data_analytics)]: Ingested two years of anonymous retail data into a dockerized PostgreSQL database, then cleaned and transformed the dataset using Python, NumPy, and Pandas to derive impactful business insights. Based on these findings, I created and delivered a presentation for stakeholders that highlighted a major untapped 'non-home' market and outlined strategic next steps to capitalize on the opportunity
+
 
 ## Highlighted Projects
 **Image Filter and Effects App** [[GitHub](https://github.com/TheHub5/Computer-Photography-Final-Project)]: Developed a Python-based photo editing tool with advanced colour replacement capabilities. Manipulated colour space data using NumPy and SciPy matrix transformations to isolate and replace specific colour ranges within images. Integrated a fuzzy selection feature with adjustable sensitivity thresholds for precise colour targeting. Implemented lossless upscaling algorithms based on mathematical interpolation techniques to preserve image fidelity. Designed an intuitive PySimpleGUI interface to enhance accessibility for non-technical users.
@@ -28,7 +30,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RonaldSin]
 
 ## Professional Experiences
 
-**Data Engineer, Jarvis (2026-present)**: Designed and delivered diverse data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding.
+**Data Engineer, Jarvis (2026-present)**: Designed and delivered diverse set of data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding.
 
 **Black Box Tester and Computer Science Instructor, Code Ninjas (2022)**: Developed over 100 black box test cases and discovering and assisting in fixing over 50 bugs for an in-house booking web-tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Individually managed a team of over 20 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates.
 

@@ -31,6 +31,11 @@
       "description": "Cloned the Linux grep utility in Java that accepts three command-line arguments (searchDirectory, regexPattern, and outputFile) to recursively search through directories and log matching lines. The project leverages Java Lambdas, Streams, and standard Logging frameworks, with a robust test suite built via JUnit and dependency management handled by Maven. For seamless deployment, the application was Dockerized and published to Docker Hub.",
       "git_url": "/core_java/grep",
       "name": "Java Grep App"
+    },
+    {
+      "description": "Ingested two years of anonymous retail data into a dockerized PostgreSQL database, then cleaned and transformed the dataset using Python, NumPy, and Pandas to derive impactful business insights. Based on these findings, I created and delivered a presentation for stakeholders that highlighted a major untapped 'non-home' market and outlined strategic next steps to capitalize on the opportunity",
+      "git_url": "/python_data_analytics",
+      "name": "Python analytics project"
     }
   ],
   "name": "Ronald Sin",
@@ -47,7 +52,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Designed and delivered diverse data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding.",
+      "description": "Designed and delivered diverse set of data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding.",
       "duration": "2026-present",
       "title": "Data Engineer"
     },
@@ -80,7 +85,7 @@
       "React"
     ],
     "proficient": [
-      "Python (numPy, sciPy)",
+      "Python (numPy, sciPy, pandas)",
       "Linux/Bash",
       "RDBMS/SQL",
       "Agile/Scrum",
