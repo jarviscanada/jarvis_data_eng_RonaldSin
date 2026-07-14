@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RonaldSin
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a data engineer graduating from Ontario Tech University with a Bachelor of Science in Computer Science (Co-op). Previously, I worked at Code Ninjas as a black-box tester, where I collaborated with a development team to create 100+ test cases and identify and resolve 50+ bugs in an in-house web application. What draws me to data engineering is my passion for problem-solving, designing pipelines and transforming messy datasets into clean, structured information feels like solving an intricate puzzle, and the satisfaction when everything clicks into place is unmatched.
+summary: I am a software developer with a B.Sc. in Computer Science (Co-op) from Ontario Tech University, currently pivoting into data engineering. After a hackathon sparked my interest in the field, I began building my data skillset. At Jarvis, I design and implement various projects such as analyzing retail data to help a gift shop maximize its revenue. Previously, I taught coding concepts to children ages 5–15 at Code Ninjas, earning consistently high reviews from children and parents. I love data engineering because it combines my passion for problem solving with the puzzle of transforming messy, unstructured data into clean, actionable insights.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -13,13 +13,14 @@ skills:
   # At least 5 skills
   proficient:
     - Python (numPy, sciPy, pandas)
+    - Java 
     - Linux/Bash
     - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
-    - Java (Lambda, Streams, Junit, Logger)
+    - Junit
     - JavaScript
     - C#
     - DataBricks
@@ -38,17 +39,17 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Developed a metrics collection and storage system for Linux cluster monitoring. Leveraged Bash scripts (lscpu, vmstat) to extract, process, and store hardware and usage metrics. Deployed a Dockerized PostgreSQL database for persistent data storage. Streamlined deployment workflows through automated database provisioning and management scripts, reducing setup time. Scheduled automated data collection using Crontab.
+    description: Developed a metrics collection and storage system for Linux cluster monitoring. Leveraged Bash scripts to extract, process, and store hardware and usage metrics. Deployed a Dockerized PostgreSQL database for persistent data storage. Streamlined deployment workflows through automated database provisioning and management scripts, reducing setup time. Scheduled automated data collection using Crontab.
   - name: "Java Grep App"
     git_url: "/core_java/grep"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Cloned the Linux grep utility in Java that accepts three command-line arguments (searchDirectory, regexPattern, and outputFile) to recursively search through directories and log matching lines. The project leverages Java Lambdas, Streams, and standard Logging frameworks, with a robust test suite built via JUnit and dependency management handled by Maven. For seamless deployment, the application was Dockerized and published to Docker Hub.
+    description: Developed a Java application modeled after the Linux grep utility that recursively searches target directories to output lines matching a user-specified regex pattern to a destination file. Utilized Java lambdas and streams to scale the application and efficiently handle large file sizes. Built a robust test suite using JUnit, managed project dependencies with Maven, and containerized the application with Docker to publish it directly to Docker Hub for seamless deployment.
   - name: "Python analytics project"
     git_url: "/python_data_analytics"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Ingested two years of anonymous retail data into a dockerized PostgreSQL database, then cleaned and transformed the dataset using Python, NumPy, and Pandas to derive impactful business insights. Based on these findings, I created and delivered a presentation for stakeholders that highlighted a major untapped 'non-home' market and outlined strategic next steps to capitalize on the opportunity
+    description: Ingested two years of anonymous retail data from a UK-based gift shop into a Dockerized PostgreSQL database, then cleaned and transformed the dataset using Python, NumPy, and Pandas to identify strategies for driving stagnant revenue. Based on these findings, designed and delivered a stakeholder presentation that highlighted a major, untapped non-home market and outlined actionable next steps to capitalize on the opportunity.
 
 # List of personal or academic projects
 # Feel free to add more projects
@@ -72,15 +73,15 @@ professional_experience:
     company: "Jarvis"
     duration: "2026-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Designed and delivered diverse set of data engineering projects spanning a wide range of topics. Actively participated in Agile ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding."
-  - title: "Black Box Tester and Computer Science Instructor"
+    description: "Designed and delivered diverse set of data engineering projects spanning a wide range of topics. Actively participated in Scrum ceremonies including daily stand-ups, sprint retrospectives, and sprint reviews to ensure iterative progress. Consistently incorporated scrum master feedback to refine technical skills and elevate code quality standards. Worked with colleagues through code reviews and study sessions, improving overall code quality and conceptual understanding."
+  - title: "Tester and Computer Science Instructor"
     company: "Code Ninjas"
     duration: "2022"
-    description: "Developed over 100 black box test cases and discovering and assisting in fixing over 50 bugs for an in-house booking web-tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Individually managed a team of over 20 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates."
+    description: "Developed over 100 test cases and discovering and assisting in fixing over 50 bugs for an in house booking web tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Managed a team of 23 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates."
   - title: "Model Maker and Industrial Painter"
     company: "PCL Graphics"
     duration: "2025"
-    description: "Created luxurious grand display pieces for high value clients in the makeup industry ensuring a near perfect finishes with a high attention to detail. Gathered and discussed project requirements with client facing departments in order to create flexible plans while accounting for cost, deadlines and potential changes in requirements. Quickly identified, suggested and implemented fixes to critical flaws in plans. Worked in a scrum-like environment participating in daily standups, sprint cycles and sprint reviews. Organized and communicated across different departments to coordinate the provision and processing of raw material."
+    description: "Fabricated luxurious, 3D interactive display pieces such as an LED illuminated selfie booth for high-profile clients in the cosmetics industry, maintaining strict attention to detail to ensure near-perfect finishes. Worked with a wide variety of materials, including wood, metal, and 3D print, and applied industrial spray paint to complex shapes to achieve precise color matches and consistent finishes. Researched, developed, and presented prototypes and proofs of concept to project leads, clearly communicating the pros, cons, technical risks, and proposed solutions for each design. Collaborated closely with client-facing teams to establish flexible project plans that balanced budgets, deadlines, and changing requirements, while quickly troubleshooting and resolving critical design flaws. Additionally, coordinated across multiple departments to streamline the procurement and processing of raw materials."
 #List of edcuation
 education: 
   - school_name: "University of Ontario Institute of Technology (Ontario Tech University)"
