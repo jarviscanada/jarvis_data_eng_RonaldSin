@@ -5,7 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RonaldSin
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a software developer with a B.Sc. in Computer Science (Co-op) from Ontario Tech University, currently pivoting into data engineering. After a hackathon sparked my interest in the field, I began building my data skillset. At Jarvis, I design and implement various projects such as analyzing retail data to help a gift shop maximize its revenue. Previously, I taught coding concepts to children ages 5–15 at Code Ninjas, earning consistently high reviews from children and parents. I love data engineering because it combines my passion for problem solving with the puzzle of transforming messy, unstructured data into clean, actionable insights.
+summary: I am a software developer with a B.Sc. in Computer Science (Co-op) from Ontario Tech University. At Jarvis, I design and implement various backend projects and data pipelines using tools such as python and java. One recent project involved analyzing sql retail data with numpy and pandas to help a gift shop maximize its revenue. Previously, I taught typescript and coding concepts such as variables and data structures at Code Ninjas, earning consistently high reviews from children and parents. Recently I have been developing my data engineering skills after a hackathon sparked my interest in the field. I love data engineering because it combines my passion for problem solving with the puzzle of transforming messy, unstructured data into clean, actionable insights.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -77,7 +77,7 @@ professional_experience:
   - title: "Tester and Computer Science Instructor"
     company: "Code Ninjas"
     duration: "2022"
-    description: "Developed over 100 test cases and discovering and assisting in fixing over 50 bugs for an in house booking web tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Managed a team of 23 employees preforming coordination, delegating of task and administrative duties. Provided excellent education for students aged 5-15 and professional customer service, consistently receiving positive reviews and maintaining high client retention rates."
+    description: "Developed over 100 test cases and discovering and assisting in fixing over 50 bugs for an in house booking web tool. Maintained over 25 computer workstations, contributing to near 100% uptime of facility hardware and software. Managed a team of 23 employees preforming coordination, delegating of task and administrative duties. Taught typescript and coding concepts such as variables, functions and data structures to children, consistently receiving positive reviews and maintaining high client retention rates."
   - title: "Model Maker and Industrial Painter"
     company: "PCL Graphics"
     duration: "2025"
