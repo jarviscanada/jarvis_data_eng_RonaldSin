@@ -18,7 +18,7 @@
     {
       "description": "Led a team of three developers in a high-pressure hackathon environment, coordinating task delegation and sprint planning to deliver a Granite AI-powered staffing optimization tool for healthcare settings. Engineered a robust Python data pipeline to validate and standardize input data, ensuring consistency across the system. Implemented advanced prompt engineering techniques to fine-tune Granite AI responses, achieving a 25%+ reduction in average simulated patient wait times.",
       "git_url": "https://github.com/ronaldsin/IBM-Hackathon-Granite-ER-Assistant",
-      "name": "Hospital Staffing Level AI Prediction tool"
+      "name": "Hospital Staffing Level AI Prediction Tool"
     }
   ],
   "jarvis_projects": [
@@ -35,7 +35,7 @@
     {
       "description": "Ingested two years of anonymous retail data from a UK-based gift shop into a Dockerized PostgreSQL database, then cleaned and transformed the dataset using Python, NumPy, and Pandas to identify strategies for driving stagnant revenue. Based on these findings, designed and delivered a stakeholder presentation that highlighted a major, untapped non-home market and outlined actionable next steps to capitalize on the opportunity.",
       "git_url": "/python_data_analytics",
-      "name": "Python analytics project"
+      "name": "Python Analytics Project"
     }
   ],
   "name": "Ronald Sin",
@@ -58,23 +58,23 @@
     },
     {
       "company": "Code Ninjas",
-      "description": "Developed over 100 test cases and discovered and assisted in fixing over 50 bugs for an in-house booking web tool. Maintained over 25 computer workstations, contributing to nearly 100% uptime of facility hardware and software. Managed a team of 23 employees performing coordination, delegating task and administrative duties. Taught TypeScript and coding concepts such as variables, functions, and data structures to children, consistently receiving positive reviews and maintaining high client retention rates.",
+      "description": "Developed over 100 test cases and discovered and assisted in fixing over 50 bugs for an in-house booking web tool. Maintained over 25 computer workstations, contributing to nearly 100% uptime of facility hardware and software. Managed a team of 23 employees performing coordination, task delegation, and administrative duties. Taught TypeScript and coding concepts such as variables, functions, and data structures to children, consistently receiving positive reviews and maintaining high client retention rates.",
       "duration": "2022",
       "title": "Tester and Computer Science Instructor"
     },
     {
       "company": "PCL Graphics",
-      "description": "Fabricated luxurious, 3D interactive display pieces such as an LED-illuminated selfie booth for high-profile clients in the cosmetics industry, maintaining strict attention to detail to ensure near-perfect finishes. Worked with a wide variety of materials, including wood, metal, and 3D-prints, and applied industrial spray paint to complex shapes to achieve precise colour matches and consistent finishes. Researched, developed, and presented prototypes and proofs of concept to project leads, clearly communicating the pros, cons, technical risks, and proposed solutions for each design. Collaborated closely with client-facing teams to establish flexible project plans that balanced budgets, deadlines, and changing requirements, while quickly troubleshooting and resolving critical design flaws. Additionally, coordinated across multiple departments to streamline the procurement and processing of raw materials.",
+      "description": "Fabricated luxurious, 3D interactive display pieces such as an LED-illuminated selfie booth for high-profile clients in the cosmetics industry, maintaining strict attention to detail to ensure near-perfect finishes. Worked with a wide variety of materials, including wood, metal, and 3D prints, and applied industrial spray paint to complex shapes to achieve precise colour matches and consistent finishes. Researched, developed, and presented prototypes and proofs of concept to project leads, clearly communicating the pros, cons, technical risks, and proposed solutions for each design. Collaborated closely with client-facing teams to establish flexible project plans that balanced budgets, deadlines, and changing requirements, while quickly troubleshooting and resolving critical design flaws. Additionally, coordinated across multiple departments to streamline the procurement and processing of raw materials.",
       "duration": "2025",
       "title": "Model Maker and Industrial Painter"
     }
   ],
   "skills": {
     "competent": [
-      "Junit",
+      "JUnit",
       "JavaScript",
       "C#",
-      "DataBricks",
+      "Databricks",
       "Maven"
     ],
     "familiar": [
@@ -85,7 +85,7 @@
       "React"
     ],
     "proficient": [
-      "Python (numPy, sciPy, pandas)",
+      "Python (NumPy, SciPy, Pandas)",
       "Java",
       "Linux/Bash",
       "RDBMS/SQL",
