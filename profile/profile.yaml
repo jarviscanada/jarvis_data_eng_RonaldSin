@@ -5,8 +5,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RonaldSin
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I am a software developer with a B.Sc. in Computer Science (Co-op) from Ontario Tech University. At Jarvis, I design and implement various backend projects and data pipelines using tools such as Python and Java. One recent project involved analyzing SQL retail data with NumPy and Pandas to help a gift shop maximize its revenue. Previously, I taught TypeScript and coding concepts such as variables and data structures at Code Ninjas, earning consistently high reviews from children and parents. Recently, I have been developing my data engineering skills after a hackathon sparked my interest in the field. I love data engineering because it combines my passion for problem-solving with the puzzle of transforming messy, unstructured data into clean, actionable insights.
-
+summary: I am a software developer with a B.Sc. in Computer Science (Co-op) from Ontario Tech University. At Jarvis, I design and implement various backend projects and data pipelines using tools such as Python and Java. One recent project involved analyzing SQL retail data with NumPy and Pandas to help a gift shop maximize its revenue. Previously, I taught TypeScript and coding concepts such as variables and data structures at Code Ninjas, earning consistently high reviews from children and parents. Recently, I have been developing my data engineering skills after a hackathon sparked my interest.
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
